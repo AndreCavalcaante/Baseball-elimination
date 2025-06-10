@@ -1,0 +1,8 @@
+# arquivos compilados
+*.class
+
+# logs e metadados temporários
+*.log
+*.tmp
+
+
